@@ -1,552 +1,502 @@
 [
-  {
-    "header": {
-      "name": "9anime",
-      "lang": "en",
-      "code": 0,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://9anime.to/search?keyword={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "allanime",
-      "lang": "en",
-      "code": 1,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://allanime.to/search?query={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "animefever",
-      "lang": "en",
-      "code": 2,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://animefever.com/search?q={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "animeflix",
-      "lang": "en",
-      "code": 3,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://animeflix.com/search?q={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "animeflv",
-      "lang": "en",
-      "code": 4,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://www3.animeflv.net/browse?q={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "animefox",
-      "lang": "en",
-      "code": 5,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://animefox.com/search?keyword={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "animepahe",
-      "lang": "en",
-      "code": 6,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://animepahe.com/?q={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "animesaturn",
-      "lang": "en",
-      "code": 7,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://animesaturn.tv/search?q={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "animesonline",
-      "lang": "en",
-      "code": 8,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://animesonline.cc/search/{searchQuery}"
-  },
-  {
-    "header": {
-      "name": "animetoast",
-      "lang": "en",
-      "code": 9,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://animetoast.com/search?q={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "animexin",
-      "lang": "en",
-      "code": 10,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://animexin.com/?s={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "anix",
-      "lang": "en",
-      "code": 11,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://anix.to/search?keyword={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "anstream",
-      "lang": "en",
-      "code": 12,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://anstream.net/search?q={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "bilibili",
-      "lang": "en",
-      "code": 13,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://www.bilibili.tv/en/search-result?q={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "cartoonworld",
-      "lang": "en",
-      "code": 14,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://cartoonworld.com/search?q={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "dbgo",
-      "lang": "en",
-      "code": 15,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://dbgo.com/search?q={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "dramacool",
-      "lang": "en",
-      "code": 16,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://dramacool.com/search?q={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "gogoanime",
-      "lang": "en",
-      "code": 17,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://gogoanime.com/search.html?keyword={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "hianime",
-      "lang": "en",
-      "code": 18,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://hianime.to/search?keyword={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "hollymoviehd",
-      "lang": "en",
-      "code": 19,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://hollymoviehd.com/search/{searchQuery}"
-  },
-  {
-    "header": {
-      "name": "kaido",
-      "lang": "en",
-      "code": 20,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://kaido.to/search?q={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "kawaiifu",
-      "lang": "en",
-      "code": 21,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://kawaiifu.com/search?q={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "kimcartoon",
-      "lang": "en",
-      "code": 22,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://kimcartoon.li/Search/Cartoon?keyword={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "kisskh",
-      "lang": "en",
-      "code": 23,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://kisskh.co/Search?s={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "kuramanime",
-      "lang": "en",
-      "code": 24,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://kuramanime.com/?s={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "ling-ling",
-      "lang": "en",
-      "code": 25,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://ling-ling.com/search?q={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "lookmovie",
-      "lang": "en",
-      "code": 26,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://lookmovie.com/search?q={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "maxdebrid",
-      "lang": "en",
-      "code": 27,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://maxdebrid.com/search?q={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "mycima",
-      "lang": "en",
-      "code": 28,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://mycima.com/search/{searchQuery}"
-  },
-  {
-    "header": {
-      "name": "netfilm",
-      "lang": "en",
-      "code": 29,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://netfilm.com/search?q={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "pelisplus",
-      "lang": "en",
-      "code": 30,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://pelisplus.com/search?q={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "putlocker",
-      "lang": "en",
-      "code": 31,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://putlocker.com/search?q={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "rapidcloud",
-      "lang": "en",
-      "code": 32,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://rapidcloud.com/search?q={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "ryuk",
-      "lang": "en",
-      "code": 33,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://ryuk.com/search?q={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "seez",
-      "lang": "en",
-      "code": 34,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://seez.com/search?q={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "sendvid",
-      "lang": "en",
-      "code": 35,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://sendvid.com/search?q={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "seriesfree",
-      "lang": "en",
-      "code": 36,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://seriesfree.com/search?q={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "simplydotmoe",
-      "lang": "en",
-      "code": 37,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://simply.moe/search?q={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "smovies",
-      "lang": "en",
-      "code": 38,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://smovies.com/search?q={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "solarmovie",
-      "lang": "en",
-      "code": 39,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://solarmovie.com/search?q={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "streamtape",
-      "lang": "en",
-      "code": 40,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://streamtape.com/search?q={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "uhdmovies",
-      "lang": "en",
-      "code": 41,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://uhdmovies.com/search/{searchQuery}"
-  },
-  {
-    "header": {
-      "name": "vidbm",
-      "lang": "en",
-      "code": 42,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://vidbm.com/search?q={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "vidembed",
-      "lang": "en",
-      "code": 43,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://vidembed.com/search.html?keyword={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "vidsrc",
-      "lang": "en",
-      "code": 44,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://vidsrc.com/search?q={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "voe",
-      "lang": "en",
-      "code": 45,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://voe.com/search?q={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "wcostream",
-      "lang": "en",
-      "code": 46,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://wcostream.com/search?q={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "yugenanime",
-      "lang": "en",
-      "code": 47,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://yugenanime.com/discover?q={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "zoro",
-      "lang": "en",
-      "code": 48,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://zoro.to/search?keyword={searchQuery}"
-  },
-  {
-    "header": {
-      "name": "zorox",
-      "lang": "en",
-      "code": 49,
-      "version": "1.0.0",
-      "nsfw": 0,
-      "sources": []
-    },
-    "searchUrlTemplate": "https://zorox.to/search?keyword={searchQuery}"
-  }
+	{
+		"header": {
+			"name": "9anime",
+			"lang": "en",
+			"code": 0,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://9anime.to/search?keyword=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "allanime",
+			"lang": "en",
+			"code": 1,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://allanime.to/search?query=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "animefever",
+			"lang": "en",
+			"code": 2,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://animefever.com/search?q=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "animeflix",
+			"lang": "en",
+			"code": 3,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://animeflix.com/search?q=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "animeflv",
+			"lang": "en",
+			"code": 4,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://www3.animeflv.net/browse?q=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "animefox",
+			"lang": "en",
+			"code": 5,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://animefox.com/search?keyword=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "animepahe",
+			"lang": "en",
+			"code": 6,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://animepahe.com/?q=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "animesaturn",
+			"lang": "en",
+			"code": 7,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://animesaturn.tv/search?q=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "animesonline",
+			"lang": "en",
+			"code": 8,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://animesonline.cc/search/${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "animetoast",
+			"lang": "en",
+			"code": 9,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://animetoast.com/search?q=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "animexin",
+			"lang": "en",
+			"code": 10,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://animexin.com/?s=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "anix",
+			"lang": "en",
+			"code": 11,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://anix.to/search?keyword=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "anstream",
+			"lang": "en",
+			"code": 12,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://anstream.net/search?q=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "bilibili",
+			"lang": "en",
+			"code": 13,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://www.bilibili.tv/en/search-result?q=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "cartoonworld",
+			"lang": "en",
+			"code": 14,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://cartoonworld.com/search?q=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "dbgo",
+			"lang": "en",
+			"code": 15,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://dbgo.com/search?q=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "dramacool",
+			"lang": "en",
+			"code": 16,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://dramacool.com/search?q=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "gogoanime",
+			"lang": "en",
+			"code": 17,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://gogoanime.com/search.html?keyword=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "hianime",
+			"lang": "en",
+			"code": 18,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://hianime.to/search?keyword=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "hollymoviehd",
+			"lang": "en",
+			"code": 19,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://hollymoviehd.com/search/${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "kaido",
+			"lang": "en",
+			"code": 20,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://kaido.to/search?q=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "kawaiifu",
+			"lang": "en",
+			"code": 21,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://kawaiifu.com/search?q=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "kimcartoon",
+			"lang": "en",
+			"code": 22,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://kimcartoon.li/Search/Cartoon?keyword=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "kisskh",
+			"lang": "en",
+			"code": 23,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://kisskh.co/Search?s=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "kuramanime",
+			"lang": "en",
+			"code": 24,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://kuramanime.com/?s=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "ling-ling",
+			"lang": "en",
+			"code": 25,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://ling-ling.com/search?q=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "lookmovie",
+			"lang": "en",
+			"code": 26,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://lookmovie.com/search?q=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "maxdebrid",
+			"lang": "en",
+			"code": 27,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://maxdebrid.com/search?q=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "mycima",
+			"lang": "en",
+			"code": 28,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://mycima.com/search/${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "netfilm",
+			"lang": "en",
+			"code": 29,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://netfilm.com/search?q=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "pelisplus",
+			"lang": "en",
+			"code": 30,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://pelisplus.com/search?q=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "putlocker",
+			"lang": "en",
+			"code": 31,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://putlocker.com/search?q=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "rapidcloud",
+			"lang": "en",
+			"code": 32,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://rapidcloud.com/search?q=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "ryuk",
+			"lang": "en",
+			"code": 33,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://ryuk.com/search?q=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "seez",
+			"lang": "en",
+			"code": 34,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://seez.com/search?q=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "sendvid",
+			"lang": "en",
+			"code": 35,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://sendvid.com/search?q=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "seriesfree",
+			"lang": "en",
+			"code": 36,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://seriesfree.com/search?q=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "simplydotmoe",
+			"lang": "en",
+			"code": 37,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://simply.moe/search?q=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "smovies",
+			"lang": "en",
+			"code": 38,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://smovies.com/search?q=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "solarmovie",
+			"lang": "en",
+			"code": 39,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://solarmovie.com/search?q=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "streamtape",
+			"lang": "en",
+			"code": 40,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://streamtape.com/search?q=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "uhdmovies",
+			"lang": "en",
+			"code": 41,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://uhdmovies.com/search/${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "vidbm",
+			"lang": "en",
+			"code": 42,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://vidbm.com/search?q=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "vidembed",
+			"lang": "en",
+			"code": 43,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://vidembed.com/search.html?keyword=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "vidsrc",
+			"lang": "en",
+			"code": 44,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://vidsrc.com/search?q=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "voe",
+			"lang": "en",
+			"code": 45,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://voe.com/search?q=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "wcostream",
+			"lang": "en",
+			"code": 46,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://wcostream.com/search?q=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "yugenanime",
+			"lang": "en",
+			"code": 47,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://yugenanime.com/discover?q=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "zoro",
+			"lang": "en",
+			"code": 48,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://zoro.to/search?keyword=${encodedName}`; })"
+	},
+	{
+		"header": {
+			"name": "zorox",
+			"lang": "en",
+			"code": 49,
+			"version": "1.0.0",
+			"nsfw": 0
+		},
+		"GenerateSearchUrl": "((animeName, episode) => { const encodedName = encodeURIComponent(animeName); return `https://zorox.to/search?keyword=${encodedName}`; })"
+	}
 ]
