@@ -10,7 +10,7 @@
 		"searchUrlExt": "search?keyword=",
 		"watchUrlExt": "watch/",
 		"episodeUrlExt": "?ep=",
-		"constructor": [
+		"blocks": [
 			"baseUrl",
 			"searchUrlExt",
 			"watchUrlExt",
