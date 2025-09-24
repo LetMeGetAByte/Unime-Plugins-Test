@@ -8,7 +8,9 @@
 		},
 		"baseUrl": "https://9animetv.to",
 		"headers": {
-			"Referer": "https://rapid-cloud.co/"
+			"Referer": "https://9animetv.to/",
+			"X-Requested-With": "XMLHttpRequest",
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
 		},
 		"blocks": [
 			"baseUrl",
