@@ -1,25 +1,28 @@
 [
-	{
-		"header": {
-			"name": "9Anime",
-			"version": "1.0.0",
-			"lang": "en",
-			"nsfw": 0
-		},
-		"baseUrl": "https://9animetv.to/",
-		"searchUrlExt": "search?keyword=",
-		"watchUrlExt": "watch/",
-		"episodeUrlExt": "?ep=",
-		"blocks": [
-			"baseUrl",
-			"searchUrlExt",
-			"watchUrlExt",
-			"episodeUrlExt",
-			"searchQuery",
-			"episodeNumber",
-			"animeName"
-		],
-		"searchFormat": [0,1,4],
-		"watchFormat": [0,2,6,3,5]
-	}
+  {
+    "header": {
+      "name": "9Anime",
+      "version": "1.1.0",
+      "lang": "en",
+      "nsfw": 0
+    },
+    "baseUrl": "https://9animetv.to",
+    "blocks": [
+      "baseUrl",
+      "/search?keyword=",
+      "searchQuery",
+      "/watch/",
+      "animeName",
+      "?ep=",
+      "episodeNumber",
+      "/ajax/episode/list/",
+      "animeId"
+    ],
+    "searchUrlFormat": [0, 1, 2],
+    "watchUrlFormat": [0, 3, 4, 5, 6],
+    "episodeListUrlFormat": [0, 7, 8],
+    "searchResultsRegex": "href=\"(\\/watch\\/[^\\\"]+)\"",
+    "animeIdRegex": "-(\\d+)$",
+    "episodeListRegex": "ep=(\\d+)"
+  }
 ]
